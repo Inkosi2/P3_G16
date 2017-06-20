@@ -32,7 +32,6 @@ Map::Map()
 			}
 		}
 	}
-
 	fentrada.close();
 }
 
