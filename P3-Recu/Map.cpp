@@ -35,7 +35,6 @@ Map::Map()
 	fentrada.close();
 }
 
-
 void Map::printMap()
 {
 	system("cls");
